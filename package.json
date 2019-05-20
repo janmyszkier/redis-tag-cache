@@ -37,6 +37,6 @@
     "rimraf": "^2.6.2"
   },
   "dependencies": {
-    "ioredis": "^4.0.0"
+    "ioredis": "4.1.0"
   }
 }
